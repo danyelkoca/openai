@@ -1,5 +1,5 @@
 # Summary
-
+**Date**: April 13, 2025  
 This repository demonstrates approaches to maintaining conversation history for context-aware responses in Large Language Models (LLMs). It compares the traditional Chat Completions API with OpenAI's Responses API, highlighting their trade-offs in terms of memory retention, token usage, and cost.
 
 ## Key Insights
